@@ -20,12 +20,7 @@
 - 📰 **Reading tech documentation** whenever possible 📚  
 - 🎯 **2026 Goals**: Become a **Software Engineer** 🎯  
 - ⚡ **Fun Fact**: I want to learn **everything** 🤣
-
-<!--
-    <img style="display: none;" src="https://komarev.com/ghpvc/?username=abdur-developer&label=Profile%20views&color=0e75b6&style=flat" alt="Abdur Rahman" />
-    <img style="display: none;" alt="GitHub followers" src="https://img.shields.io/github/followers/abdur-developer?label=Github&style=flat">
 </div>
--->
 <hr>
 
 ## 🌐 Connect with Me
@@ -89,6 +84,8 @@
 Feel free to reach out to me for collaborations, projects, or just a friendly chat! 😊
 
 </div>
+<img style="display: none;" src="https://komarev.com/ghpvc/?username=abdur-developer&label=Profile%20views&color=0e75b6&style=flat" alt="Abdur Rahman" />
+<img style="display: none;" alt="GitHub followers" src="https://img.shields.io/github/followers/abdur-developer?label=Github&style=flat">
 
 <hr>
 
