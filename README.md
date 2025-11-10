@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,sass,javascript,php,java,android,firebase,git,github,figma,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=aws,html,css,bootstrap,sass,javascript,react,php,java,androidstudio,firebase,git,github,figma,tensorflow,mysql,arduino,cpp,py,django,ps,opencv,linkedin" />
 </div>
 
 
