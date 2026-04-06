@@ -50,10 +50,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Abdur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdur-developer&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-developer&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abdur-developer&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-developer&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <hr>
