@@ -50,11 +50,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdur-developer&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-    <img align="center" src="[https://github-readme-streak-stats.herokuapp.com?user=abdur-developer&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-developer&theme=transparent&hide_border=false&layout=compact)" />
-  
-  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com?user=abdur-developer&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22](https://github-readme-stats.vercel.app/api?username=abdur-developer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdur-developer&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdur-developer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Abdur's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-developer&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 <hr>
